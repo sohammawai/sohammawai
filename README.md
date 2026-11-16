@@ -8,6 +8,8 @@ Math & Computing at NSUT, Delhi. I like projects where the hard part is the data
 - **Diabetes Risk Triage**: sorts 229K survey records into risk tiers using rough sets, fuzzy logic and neural nets. *In progress.*
 - **[DFA Minimizer](https://github.com/sohammawai/dfa-minimizer)**: an animated, in-browser walkthrough of the Myhill–Nerode table-filling algorithm.
 
-**Usually working with:** Python · C++ · PyTorch · scikit-learn · FastAPI · NetworkX · Numba · AWS
+**Usually working with**
+
+<p><img src="https://cdn.simpleicons.org/python/8b949e" height="22" alt="Python" title="Python">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/8b949e" height="22" alt="C++" title="C++">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/8b949e" height="22" alt="PyTorch" title="PyTorch">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/8b949e" height="22" alt="scikit-learn" title="scikit-learn">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/numpy/8b949e" height="22" alt="NumPy" title="NumPy">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fastapi/8b949e" height="22" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/numba/8b949e" height="22" alt="Numba" title="Numba">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/8b949e" height="22" alt="Git" title="Git">&nbsp;&nbsp; + AWS</p>
 
 [LinkedIn](https://www.linkedin.com/in/soham-mawai-4b4ba8298)
